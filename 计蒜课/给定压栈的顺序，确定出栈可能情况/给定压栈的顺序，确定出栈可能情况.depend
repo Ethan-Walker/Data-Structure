@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461942154 source:f:\programmer\data structure\计蒜课\给定压栈的顺序，确定出栈可能情况\main.cpp
+	<stdio.h>
+	<iostream>
+	<stack>
+	<queue>
+

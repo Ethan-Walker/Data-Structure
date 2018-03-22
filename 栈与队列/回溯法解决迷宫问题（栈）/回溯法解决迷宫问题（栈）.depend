@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460385951 source:f:\programmer\data structure\栈与队列\回溯法解决迷宫问题（栈）\main.cpp
+	<iostream>
+	<stack>
+

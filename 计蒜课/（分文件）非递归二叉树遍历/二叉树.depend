@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1461803643 source:f:\programmer\data structure\¶ş²æÊ÷\¶ş²æÊ÷\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1461803671 f:\programmer\data structure\¶ş²æÊ÷\¶ş²æÊ÷\binarytree.h
+	<iostream>
+
+1461855856 source:f:\programmer\data structure\¼ÆËâ¿Î\¶ş²æÊ÷\binarytree.cpp
+	<iostream>
+	<queue>
+	"binarytree.h"
+
+1461857225 f:\programmer\data structure\¼ÆËâ¿Î\¶ş²æÊ÷\binarytree.h
+	<iostream>
+
+1461855687 source:f:\programmer\data structure\¼ÆËâ¿Î\¶ş²æÊ÷\main.cpp
+	<iostream>
+	"binarytree.h"
+

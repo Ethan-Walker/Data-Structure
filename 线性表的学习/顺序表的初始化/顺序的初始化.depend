@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458153265 source:f:\c++\大话数据结构\线性表的学习\线性表的初始化\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+

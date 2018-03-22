@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458735528 source:f:\c++\大话数据结构\栈与队列\合法的括号\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+
+1458742734 source:f:\c++\大话数据结构\栈与队列\栈的应用--合法的括号（混合括号）\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458153295 source:f:\c++\大话数据结构\线性表的学习\顺序表的初始化\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+
+1458153295 source:f:\c++\数据结构\线性表的学习\顺序表的初始化\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+

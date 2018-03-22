@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1463884143 source:f:\programmer\data structure\二叉树\实验六——huffman树\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Huffman.h"
+
+1463884023 f:\programmer\data structure\二叉树\实验六——huffman树\huffman.h
+	<iostream>
+	"Node.h"
+
+1463880006 f:\programmer\data structure\二叉树\实验六——huffman树\node.h
+	<iostream>
+	<string>
+
+1463884080 source:f:\programmer\data structure\二叉树\实验六——huffman树\huffman.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstring>
+	"Queue.h"
+	"MinHeap.h"
+	"Huffman.h"
+
+1463880006 f:\programmer\data structure\二叉树\实验六——huffman树\queue.h
+
+1463880006 f:\programmer\data structure\二叉树\实验六——huffman树\minheap.h
+	"Node.h"
+

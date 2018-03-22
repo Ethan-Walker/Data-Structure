@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1463755173 source:f:\programmer\data structure\¶ş²æÊ÷\huffmanÊ÷\main.cpp
+	<iostream>
+	"Huffman.h"
+
+1463755711 f:\programmer\data structure\¶ş²æÊ÷\huffmanÊ÷\huffman.h
+	<iostream>
+	"Node.h"
+
+1463759965 source:f:\programmer\data structure\¶ş²æÊ÷\huffmanÊ÷\huffman.cpp
+	<iostream>
+	<queue>
+	"MinHeap.h"
+	"Huffman.h"
+
+1463759824 f:\programmer\data structure\¶ş²æÊ÷\huffmanÊ÷\minheap.h
+	"Node.h"
+
+1463752680 f:\programmer\data structure\¶ş²æÊ÷\huffmanÊ÷\node.h
+

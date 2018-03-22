@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458571068 source:f:\c++\大话数据结构\栈与队列\栈的应用——括号匹配\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<stack>
+

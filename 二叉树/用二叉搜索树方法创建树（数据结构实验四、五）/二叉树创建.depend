@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1463156024 source:f:\programmer\大一上\c++考试\二叉树创建\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1463156024 f:\programmer\大一上\c++考试\二叉树创建\binarytree.h
+	<iostream>
+
+1463156024 source:f:\programmer\大一上\c++考试\二叉树创建\binarytree.cpp
+	"binarytree.h"
+	"Queue.h"
+	<iostream>
+
+1463156542 f:\programmer\大一上\c++考试\二叉树创建\queue.h
+
+1463271566 source:f:\programmer\data structure\二叉树\二叉搜索树创建（数据结构实验四、五）\binarytree.cpp
+	"binarytree.h"
+	"Queue.h"
+	<iostream>
+
+1463156024 f:\programmer\data structure\二叉树\二叉搜索树创建（数据结构实验四、五）\binarytree.h
+	<iostream>
+
+1463156542 f:\programmer\data structure\二叉树\二叉搜索树创建（数据结构实验四、五）\queue.h
+
+1463158433 source:f:\programmer\data structure\二叉树\二叉搜索树创建（数据结构实验四、五）\main.cpp
+	<iostream>
+	<cstdlib>
+	"binarytree.h"
+

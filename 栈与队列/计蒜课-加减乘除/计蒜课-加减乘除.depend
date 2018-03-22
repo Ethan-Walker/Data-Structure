@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459436666 source:f:\c++\数据结构\栈与队列\计蒜课-加减乘除\main.cpp
+	<iostream>
+	<cstdlib>
+	<stack>
+	<string>
+	<cmath>
+
+1460184290 source:f:\数据结构\栈与队列\计蒜课-加减乘除\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<assert.h>
+

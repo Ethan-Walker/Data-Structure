@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461631337 source:f:\programmer\data structure\数据结构练习题\背包\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+

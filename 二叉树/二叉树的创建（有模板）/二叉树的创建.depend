@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1461000398 source:f:\programmer\data structure\二叉树的创建\bianli.cpp
+	<iostream>
+	"binarytree.h"
+
+1461170128 f:\programmer\data structure\二叉树的创建\binarytree.h
+	<iostream>
+	<stack>
+	<queue>
+
+1461001549 source:f:\programmer\data structure\二叉树的创建\bianli2.cpp
+
+1461119695 source:f:\programmer\data structure\二叉树的创建\hanshu.cpp
+
+1461000391 source:f:\programmer\data structure\二叉树的创建\hanshu2.cpp
+	<iostream>
+	"binarytree.h"
+
+1461119695 source:f:\programmer\data structure\二叉树的创建\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1460971858 f:\programmer\data structure\二叉树的创建\hanshu.cpp
+	"binarytree.h"
+	<stdlib.h>
+	<stack>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1465216750 source:f:\programmer\data structure\搜索算法\avl（bbst）高度平衡二叉树\main.cpp
+	<iostream>
+	"AVL.h"
+
+1465216564 f:\programmer\data structure\搜索算法\avl（bbst）高度平衡二叉树\avl.h
+	<iostream>
+
+1465217036 source:f:\programmer\data structure\搜索算法\avl（bbst）高度平衡二叉树\avl.cpp
+	<iostream>
+	<stack>
+	<queue>
+	"AVL.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457878704 source:f:\c++\大话数据结构\一元多项式的乘法和加法运算\main.cpp
+	<iostream>
+	<cmath>
+
+1457878704 source:f:\c++\大话数据结构\线性表的学习\一元多项式的加法与乘法运算 （顺序表法）\main.cpp
+	<iostream>
+	<cmath>
+

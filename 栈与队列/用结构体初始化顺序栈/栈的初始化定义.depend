@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458482855 source:f:\c++\大话数据结构\栈与队列\栈的初始化定义\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+

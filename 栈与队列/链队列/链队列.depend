@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460189074 source:f:\数据结构\栈与队列\链队列\main.cpp
+	<iostream>
+	<assert.h>
+

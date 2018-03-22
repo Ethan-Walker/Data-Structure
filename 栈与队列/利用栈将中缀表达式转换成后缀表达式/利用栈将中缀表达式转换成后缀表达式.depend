@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458668793 source:f:\c++\大话数据结构\栈与队列\利用栈将中缀表达式转换成后缀表达式\main.cpp
+	<iostream>
+	<stack>
+

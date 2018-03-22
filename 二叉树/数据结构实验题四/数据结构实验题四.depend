@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462702188 source:f:\programmer\data structure\二叉树\数据结构实验题四\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1462710957 f:\programmer\data structure\二叉树\数据结构实验题四\binarytree.h
+	<iostream>
+
+1462710574 source:f:\programmer\data structure\二叉树\数据结构实验题四\binarytree.cpp
+	<iostream>
+	<queue>
+	"binarytree.h"
+

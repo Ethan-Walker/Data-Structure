@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1464970653 source:f:\programmer\data structure\排序算法\快速排序\main.cpp
+	<iostream>
+	<Windows.h>
+	<stdio.h>
+	<cstdlib>
+
+1465024337 source:f:\programmer\data structure\排序算法\快速排序\快速排序（改进版--二路划分）\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+	<cstdlib>
+

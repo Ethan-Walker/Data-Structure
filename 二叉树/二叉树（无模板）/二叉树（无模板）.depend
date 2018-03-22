@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1461638014 source:f:\programmer\data structure\二叉树（无模板）\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1461176233 f:\programmer\data structure\二叉树（无模板）\binarytree.h
+	<iostream>
+
+1461639296 source:f:\programmer\data structure\二叉树（无模板）\binarytree.cpp
+	<iostream>
+	<stack>
+	<queue>
+	"binarytree.h"
+
+1461639164 source:f:\programmer\data structure\二叉树（无模板）\bianli.cpp
+	<iostream>
+	"binarytree.h"
+	<stack>
+	<queue>
+
+1461639325 source:f:\programmer\data structure\二叉树\二叉树（无模板）\bianli.cpp
+	<iostream>
+	"binarytree.h"
+	<stack>
+	<queue>
+
+1461774631 f:\programmer\data structure\二叉树\二叉树（无模板）\binarytree.h
+	<iostream>
+
+1461774537 source:f:\programmer\data structure\二叉树\二叉树（无模板）\main.cpp
+	<iostream>
+	"binarytree.h"
+
+1461773327 source:f:\programmer\data structure\二叉树\二叉树（无模板）\binarytree.cpp
+	<iostream>
+	<stack>
+	<queue>
+	"binarytree.h"
+

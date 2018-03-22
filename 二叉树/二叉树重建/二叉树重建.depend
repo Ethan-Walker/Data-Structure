@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461690369 source:f:\programmer\data structure\二叉树\二叉树重建\main.cpp
+	<iostream>
+	<cstdio>
+	"binarytree.h"
+
+1461690368 f:\programmer\data structure\二叉树\二叉树重建\binarytree.h
+	<iostream>
+
+1462608617 source:f:\programmer\data structure\二叉树\二叉树重建\binarytree.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	"binarytree.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458664733 source:f:\c++\大话数据结构\栈与队列\利用顺序栈将后缀表达式进行正确运算\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

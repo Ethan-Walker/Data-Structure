@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465098607 source:f:\programmer\data structure\堆\最大堆\main.cpp
+	<iostream>
+	"MaxHeap.h"
+	<ctime>
+	<cstdlib>
+	<iomanip>
+
+1465029661 f:\programmer\data structure\堆\最大堆\maxheap.h
+
+1465103778 source:f:\programmer\data structure\堆\最大堆\maxheap.cpp
+	<iostream>
+	<iomanip>
+	"MaxHeap.h"
+

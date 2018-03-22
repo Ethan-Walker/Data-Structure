@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1458104197 source:f:\c++\大话数据结构\浙大pta题目\数据结构和算法题目集中文\4-1单链表逆转\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1459038222 source:f:\c++\大话数据结构\线性表的学习\4-1单链表逆转\main.cpp
+	<stdio.h>
+	<iostream>
+

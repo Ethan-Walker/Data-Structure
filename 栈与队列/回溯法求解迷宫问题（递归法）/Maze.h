@@ -1,0 +1,5 @@
+#ifndef MAZE_H_INCLUDED
+#define MAZE_H_INCLUDED
+
+
+#endif // MAZE_H_INCLUDED

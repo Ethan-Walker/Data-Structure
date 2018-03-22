@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1458662266 source:f:\c++\大话数据结构\栈与队列\利用stl中stack计算后缀表达式\main.cpp
+	<iostream>
+	<stack>
+
+1458662266 source:f:\c++\数据结构\栈与队列\利用stl中stack计算后缀表达式\main.cpp
+	<iostream>
+	<stack>
+

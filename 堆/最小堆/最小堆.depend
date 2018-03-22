@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465097778 source:f:\programmer\data structure\堆\最小堆\minheap.cpp
+	"MinHeap.h"
+	<iostream>
+	<iomanip>
+
+1465026750 f:\programmer\data structure\堆\最小堆\minheap.h
+
+1465098607 source:f:\programmer\data structure\堆\最小堆\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	"MinHeap.h"
+

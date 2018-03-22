@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460384239 source:f:\programmer\data structure\栈与队列\回溯法求解迷宫问题（递归法）\main.cpp
+	<iostream>
+	<cstring>
+	"Maze.h"
+
+1460376989 f:\programmer\data structure\栈与队列\回溯法求解迷宫问题（递归法）\maze.h
+
